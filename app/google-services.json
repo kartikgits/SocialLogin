@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1074013693085",
+    "firebase_url": "https://social-login-1531831175857.firebaseio.com",
+    "project_id": "social-login-1531831175857",
+    "storage_bucket": "social-login-1531831175857.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074013693085:android:f6b2ad1357480e13",
+        "android_client_info": {
+          "package_name": "com.northwindlabs.kartikeya.socialmedialogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074013693085-2k1kbbnesmfohg2mlbkn6kjiqor5eo6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.northwindlabs.kartikeya.socialmedialogin",
+            "certificate_hash": "82bb5c9aef0dc17464f65c5eba7e249078cade94"
+          }
+        },
+        {
+          "client_id": "1074013693085-8gl6fs6t3hm4di1v7i29hlaiv3m40ie7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc84qvCu-QU7MKaDdX60f7L7R1xV9DpKk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074013693085-8gl6fs6t3hm4di1v7i29hlaiv3m40ie7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

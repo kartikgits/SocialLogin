@@ -4,15 +4,15 @@ ADDED from C:\Users\Kartikeya\Documents\ProjectWork\InLogin\SocialLogin\eventsap
 INJECTED from C:\Users\Kartikeya\Documents\ProjectWork\InLogin\SocialLogin\eventsapp\src\main\AndroidManifest.xml:2:1-26:12
 INJECTED from C:\Users\Kartikeya\Documents\ProjectWork\InLogin\SocialLogin\eventsapp\src\main\AndroidManifest.xml:2:1-26:12
 MERGED from [:linkedin-sdk] C:\Users\Kartikeya\Documents\ProjectWork\InLogin\SocialLogin\linkedin-sdk\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-15:12
-MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\5e7012bef3d676af684db66453a4a4ef\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\db10fb2dbd8173e8a6d1a188ee4b7197\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\d6c35999d964609a9ffc37a476084a98\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\2aac4b63c0e87c3b0118b2be3fd3182d\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\583617327dcd8502f8b31164c0508166\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\2ee702f44d1df50e12cc01c3ac7ee3be\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\86015cdb26f1d74aeb95d9115240a257\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\eb6626d38f7b6a625fa7be7e5e1461af\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\e8067bbf784ac8f3eee3a5a4960f8190\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\7ea539d894619f5d584bc1b139a75486\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\911c126d292ad3a4f6027eb8a2c18a38\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\b0fc4b1922a721ad024d8c3b0eef2c9d\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\5a5b73f8badf6fd978d0d7a14bb928d2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\4e7e7977143a2f8f00036991370f671c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\c88769d5bcca560f2eed3413d621fab3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\e6c186c4a6d29b929cd90948a2fa3efc\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\195389c9483bda746bbe86bf1cce0ca0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\63a7f78fd1f354d277740ceab4356079\AndroidManifest.xml:17:1-31:12
 INJECTED from C:\Users\Kartikeya\Documents\ProjectWork\InLogin\SocialLogin\eventsapp\src\main\AndroidManifest.xml:2:1-26:12
 INJECTED from C:\Users\Kartikeya\Documents\ProjectWork\InLogin\SocialLogin\eventsapp\src\main\AndroidManifest.xml:2:1-26:12
 	package
@@ -31,24 +31,24 @@ application
 ADDED from C:\Users\Kartikeya\Documents\ProjectWork\InLogin\SocialLogin\eventsapp\src\main\AndroidManifest.xml:5:5-24:19
 MERGED from [:linkedin-sdk] C:\Users\Kartikeya\Documents\ProjectWork\InLogin\SocialLogin\linkedin-sdk\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-20
 MERGED from [:linkedin-sdk] C:\Users\Kartikeya\Documents\ProjectWork\InLogin\SocialLogin\linkedin-sdk\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-20
-MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\5e7012bef3d676af684db66453a4a4ef\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\5e7012bef3d676af684db66453a4a4ef\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\db10fb2dbd8173e8a6d1a188ee4b7197\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\db10fb2dbd8173e8a6d1a188ee4b7197\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\d6c35999d964609a9ffc37a476084a98\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\d6c35999d964609a9ffc37a476084a98\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\2aac4b63c0e87c3b0118b2be3fd3182d\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\2aac4b63c0e87c3b0118b2be3fd3182d\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\583617327dcd8502f8b31164c0508166\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\583617327dcd8502f8b31164c0508166\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\2ee702f44d1df50e12cc01c3ac7ee3be\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\2ee702f44d1df50e12cc01c3ac7ee3be\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\86015cdb26f1d74aeb95d9115240a257\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\86015cdb26f1d74aeb95d9115240a257\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\eb6626d38f7b6a625fa7be7e5e1461af\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\eb6626d38f7b6a625fa7be7e5e1461af\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\e8067bbf784ac8f3eee3a5a4960f8190\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\e8067bbf784ac8f3eee3a5a4960f8190\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\7ea539d894619f5d584bc1b139a75486\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\7ea539d894619f5d584bc1b139a75486\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\911c126d292ad3a4f6027eb8a2c18a38\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\911c126d292ad3a4f6027eb8a2c18a38\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\b0fc4b1922a721ad024d8c3b0eef2c9d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\b0fc4b1922a721ad024d8c3b0eef2c9d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\5a5b73f8badf6fd978d0d7a14bb928d2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\5a5b73f8badf6fd978d0d7a14bb928d2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\4e7e7977143a2f8f00036991370f671c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\4e7e7977143a2f8f00036991370f671c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\c88769d5bcca560f2eed3413d621fab3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\c88769d5bcca560f2eed3413d621fab3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\e6c186c4a6d29b929cd90948a2fa3efc\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\e6c186c4a6d29b929cd90948a2fa3efc\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\195389c9483bda746bbe86bf1cce0ca0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\195389c9483bda746bbe86bf1cce0ca0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\63a7f78fd1f354d277740ceab4356079\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\63a7f78fd1f354d277740ceab4356079\AndroidManifest.xml:25:5-29:19
 	android:label
 		ADDED from C:\Users\Kartikeya\Documents\ProjectWork\InLogin\SocialLogin\eventsapp\src\main\AndroidManifest.xml:7:9-41
 	android:largeHeap
@@ -87,28 +87,28 @@ INJECTED from C:\Users\Kartikeya\Documents\ProjectWork\InLogin\SocialLogin\event
 INJECTED from C:\Users\Kartikeya\Documents\ProjectWork\InLogin\SocialLogin\eventsapp\src\main\AndroidManifest.xml
 MERGED from [:linkedin-sdk] C:\Users\Kartikeya\Documents\ProjectWork\InLogin\SocialLogin\linkedin-sdk\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:linkedin-sdk] C:\Users\Kartikeya\Documents\ProjectWork\InLogin\SocialLogin\linkedin-sdk\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\5e7012bef3d676af684db66453a4a4ef\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\5e7012bef3d676af684db66453a4a4ef\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\db10fb2dbd8173e8a6d1a188ee4b7197\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\db10fb2dbd8173e8a6d1a188ee4b7197\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\d6c35999d964609a9ffc37a476084a98\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\d6c35999d964609a9ffc37a476084a98\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\2aac4b63c0e87c3b0118b2be3fd3182d\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\2aac4b63c0e87c3b0118b2be3fd3182d\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\583617327dcd8502f8b31164c0508166\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\583617327dcd8502f8b31164c0508166\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\2ee702f44d1df50e12cc01c3ac7ee3be\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\2ee702f44d1df50e12cc01c3ac7ee3be\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\86015cdb26f1d74aeb95d9115240a257\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\86015cdb26f1d74aeb95d9115240a257\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\eb6626d38f7b6a625fa7be7e5e1461af\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\eb6626d38f7b6a625fa7be7e5e1461af\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\e8067bbf784ac8f3eee3a5a4960f8190\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\e8067bbf784ac8f3eee3a5a4960f8190\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\7ea539d894619f5d584bc1b139a75486\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\7ea539d894619f5d584bc1b139a75486\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\911c126d292ad3a4f6027eb8a2c18a38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\911c126d292ad3a4f6027eb8a2c18a38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\b0fc4b1922a721ad024d8c3b0eef2c9d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\b0fc4b1922a721ad024d8c3b0eef2c9d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\5a5b73f8badf6fd978d0d7a14bb928d2\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\5a5b73f8badf6fd978d0d7a14bb928d2\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\4e7e7977143a2f8f00036991370f671c\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\4e7e7977143a2f8f00036991370f671c\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\c88769d5bcca560f2eed3413d621fab3\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\c88769d5bcca560f2eed3413d621fab3\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\e6c186c4a6d29b929cd90948a2fa3efc\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\e6c186c4a6d29b929cd90948a2fa3efc\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\195389c9483bda746bbe86bf1cce0ca0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\195389c9483bda746bbe86bf1cce0ca0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\63a7f78fd1f354d277740ceab4356079\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\63a7f78fd1f354d277740ceab4356079\AndroidManifest.xml:21:5-23:58
 INJECTED from C:\Users\Kartikeya\Documents\ProjectWork\InLogin\SocialLogin\eventsapp\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Kartikeya\Documents\ProjectWork\InLogin\SocialLogin\eventsapp\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\5e7012bef3d676af684db66453a4a4ef\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\7ea539d894619f5d584bc1b139a75486\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from C:\Users\Kartikeya\Documents\ProjectWork\InLogin\SocialLogin\eventsapp\src\main\AndroidManifest.xml
 		ADDED from C:\Users\Kartikeya\Documents\ProjectWork\InLogin\SocialLogin\eventsapp\src\main\AndroidManifest.xml
@@ -122,24 +122,24 @@ ADDED from [:linkedin-sdk] C:\Users\Kartikeya\Documents\ProjectWork\InLogin\Soci
 	android:name
 		ADDED from [:linkedin-sdk] C:\Users\Kartikeya\Documents\ProjectWork\InLogin\SocialLogin\linkedin-sdk\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:22-64
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\5e7012bef3d676af684db66453a4a4ef\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\db10fb2dbd8173e8a6d1a188ee4b7197\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\db10fb2dbd8173e8a6d1a188ee4b7197\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\d6c35999d964609a9ffc37a476084a98\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\d6c35999d964609a9ffc37a476084a98\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\2aac4b63c0e87c3b0118b2be3fd3182d\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\2aac4b63c0e87c3b0118b2be3fd3182d\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\583617327dcd8502f8b31164c0508166\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\583617327dcd8502f8b31164c0508166\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\2ee702f44d1df50e12cc01c3ac7ee3be\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\2ee702f44d1df50e12cc01c3ac7ee3be\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\86015cdb26f1d74aeb95d9115240a257\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\86015cdb26f1d74aeb95d9115240a257\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\eb6626d38f7b6a625fa7be7e5e1461af\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\eb6626d38f7b6a625fa7be7e5e1461af\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\e8067bbf784ac8f3eee3a5a4960f8190\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\e8067bbf784ac8f3eee3a5a4960f8190\AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\7ea539d894619f5d584bc1b139a75486\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\911c126d292ad3a4f6027eb8a2c18a38\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\911c126d292ad3a4f6027eb8a2c18a38\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\b0fc4b1922a721ad024d8c3b0eef2c9d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\b0fc4b1922a721ad024d8c3b0eef2c9d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\5a5b73f8badf6fd978d0d7a14bb928d2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\5a5b73f8badf6fd978d0d7a14bb928d2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\4e7e7977143a2f8f00036991370f671c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\4e7e7977143a2f8f00036991370f671c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\c88769d5bcca560f2eed3413d621fab3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\c88769d5bcca560f2eed3413d621fab3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\e6c186c4a6d29b929cd90948a2fa3efc\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\e6c186c4a6d29b929cd90948a2fa3efc\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\195389c9483bda746bbe86bf1cce0ca0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\195389c9483bda746bbe86bf1cce0ca0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\63a7f78fd1f354d277740ceab4356079\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\63a7f78fd1f354d277740ceab4356079\AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\5e7012bef3d676af684db66453a4a4ef\AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\7ea539d894619f5d584bc1b139a75486\AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\5e7012bef3d676af684db66453a4a4ef\AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Kartikeya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\7ea539d894619f5d584bc1b139a75486\AndroidManifest.xml:27:13-51

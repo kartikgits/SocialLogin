@@ -1,4 +1,4 @@
-package com.supportmania.inlogin;
+package com.northwindlabs.kartikeya.socialmedialogin;
 
 import org.junit.Test;
 

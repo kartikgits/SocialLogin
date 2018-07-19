@@ -1,13 +1,8 @@
 package com.northwindlabs.kartikeya.socialmedialogin;
 
 import android.content.Intent;
-import android.content.pm.PackageInfo;
-import android.content.pm.PackageManager;
-import android.content.pm.Signature;
-import android.provider.ContactsContract;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Base64;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
@@ -27,14 +22,12 @@ import com.squareup.picasso.Picasso;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import java.security.MessageDigest;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
 
     private ImageView imgProfile,imgLogin;
     private TextView txtDetails;
     private Button btnLogout;
-    private final String PACKAGE_NAME = "com.northwindlabs.kartikeya.socialmedialogin";
     private final String LOG_TAG = "MainActivity";
 
     private final String LINKED_IN_URL = "https://api.linkedin.com/v1/people/~:(id,first-name,last-name,public-profile-url,picture-url,email-address,picture-urls::(original))";
@@ -43,12 +36,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        computePakageHash();
         initializeControls();
     }
 
     private void initializeControls(){
-        imgLogin = (ImageView)findViewById(R.id.imgLogin);
+        imgLogin = (ImageView)findViewById(R.id.linkedin_login);
         imgLogin.setOnClickListener(this);
         btnLogout = (Button)findViewById(R.id.btnLogout);
         btnLogout.setOnClickListener(this);
@@ -60,21 +52,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         btnLogout.setVisibility(View.GONE);
         imgProfile.setVisibility(View.GONE);
         txtDetails.setVisibility(View.GONE);
-    }
-
-    private void computePakageHash() {
-        try {
-            PackageInfo info = getPackageManager().getPackageInfo(
-                    PACKAGE_NAME,
-                    PackageManager.GET_SIGNATURES);
-            for (Signature signature : info.signatures) {
-                MessageDigest md = MessageDigest.getInstance("SHA");
-                md.update(signature.toByteArray());
-                Log.d("KeyHash:", Base64.encodeToString(md.digest(), Base64.DEFAULT));
-            }
-        } catch (Exception e) {
-            Log.e(LOG_TAG,e.getMessage());
-        }
     }
 
     @Override

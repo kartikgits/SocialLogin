@@ -1,4 +1,4 @@
-package com.supportmania.inlogin;
+package com.northwindlabs.kartikeya.socialmedialogin;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.supportmania.inlogin", appContext.getPackageName());
+        assertEquals("com.northwindlabs.kartikeya.socialmedialogin", appContext.getPackageName());
     }
 }
