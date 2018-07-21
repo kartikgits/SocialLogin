@@ -9,4 +9,7 @@
 
     <string name="title_profile">User\'s profile</string>
     <string name="title_provider">User\'s provider</string>
+
+    <string name="facebook_app_id">272465946638754</string>
+    <string name="fb_login_protocol_scheme">fb272465946638754</string>
 </resources>

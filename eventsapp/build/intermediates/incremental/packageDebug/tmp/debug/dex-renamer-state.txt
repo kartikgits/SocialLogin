@@ -1,4 +1,0 @@
-#Thu Jul 19 11:24:20 IST 2018
-base.0=C\:\\Users\\Kartikeya\\Documents\\ProjectWork\\InLogin\\SocialLogin\\eventsapp\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-path.0=classes.dex
-renamed.0=classes.dex

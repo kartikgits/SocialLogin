@@ -23,11 +23,10 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 
-public class LinkedInActivity extends AppCompatActivity implements View.OnClickListener{
+public class LinkedInActivity extends LoadingActivity implements View.OnClickListener{
 
-    private ImageView imgProfile, linkedin_login;
-    private TextView txtDetails;
-    private Button btnLogout;
+    private ImageView mImageView, linkedin_login;
+    private TextView mTextViewProfile;
     private final String LOG_TAG = "LinkedInActivity";
 
     private final String LINKED_IN_URL = "https://api.linkedin.com/v1/people/~:(id,first-name,last-name,public-profile-url,picture-url,email-address,picture-urls::(original))";
@@ -35,36 +34,26 @@ public class LinkedInActivity extends AppCompatActivity implements View.OnClickL
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_linkedin);
         intitializeControls();
         handleLogin();
     }
 
     private void intitializeControls(){
-        imgProfile = findViewById(R.id.imgProfile);
+        findViewById(R.id.button_linkedin_signout).setOnClickListener(this);
         linkedin_login = findViewById(R.id.linkedin_login);
-        txtDetails = findViewById(R.id.txtDetails);
-        btnLogout = findViewById(R.id.btnLogout);
-    }
-
-    @Override
-    public void onClick(View v) {
-        switch (v.getId()){
-//            case R.id.linkedin_login:
-//                handleLogin();
-//                break;
-            case R.id.btnLogout:
-                handleLogout();
-                break;
-        }
+        mImageView = findViewById(R.id.logo);
+        mTextViewProfile = findViewById(R.id.profile);
     }
 
     private void handleLogout(){
         LISessionManager.getInstance(getApplicationContext()).clearSession();
         linkedin_login.setVisibility(View.VISIBLE);
-        btnLogout.setVisibility(View.GONE);
-        imgProfile.setVisibility(View.GONE);
-        txtDetails.setVisibility(View.GONE);
+        mImageView.getLayoutParams().width = (getResources().getDisplayMetrics().widthPixels / 100) * 64;
+        mImageView.setImageResource(R.mipmap.ic_launcher);
+        mTextViewProfile.setText(null);
+
+        findViewById(R.id.button_linkedin_signout).setVisibility(View.GONE);
     }
 
     private void handleLogin(){
@@ -73,9 +62,7 @@ public class LinkedInActivity extends AppCompatActivity implements View.OnClickL
             public void onAuthSuccess() {
                 //Authentication was successful. Other calls with the SDK
                 linkedin_login.setVisibility(View.GONE);
-                btnLogout.setVisibility(View.VISIBLE);
-                imgProfile.setVisibility(View.VISIBLE);
-                txtDetails.setVisibility(View.VISIBLE);
+                findViewById(R.id.button_facebook_signout).setVisibility(View.VISIBLE);
                 fetchPersonalInfo();
             }
 
@@ -111,15 +98,13 @@ public class LinkedInActivity extends AppCompatActivity implements View.OnClickL
                     String pictureUrl = jsonObject.getString("pictureUrl");
                     String emailAddress = jsonObject.getString("emailAddress");
 
-                    Picasso.with(getApplicationContext()).load(pictureUrl).into(imgProfile);
+                    Picasso.with(getApplicationContext()).load(pictureUrl).into(mImageView);
 
                     StringBuilder sb = new StringBuilder();
-                    sb.append("First Name: "+firstName);
-                    sb.append("\n\n");
-                    sb.append("Last Name: "+lastName);
+                    sb.append("DisplayName: "+firstName+ " " +lastName);
                     sb.append("\n\n");
                     sb.append("Email: "+emailAddress);
-                    txtDetails.setText(sb);
+                    mTextViewProfile.setText(sb);
                 } catch (JSONException e) {
                     e.printStackTrace();
                 }
@@ -131,5 +116,14 @@ public class LinkedInActivity extends AppCompatActivity implements View.OnClickL
                 Log.e(LOG_TAG,liApiError.getMessage());
             }
         });
+    }
+
+    @Override
+    public void onClick(View v) {
+        switch (v.getId()) {
+            case R.id.button_facebook_signout:
+                handleLogout();
+                break;
+        }
     }
 }
