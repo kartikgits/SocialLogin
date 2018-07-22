@@ -35,15 +35,14 @@ public class LinkedInActivity extends LoadingActivity implements View.OnClickLis
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_linkedin);
-        intitializeControls();
-        handleLogin();
-    }
 
-    private void intitializeControls(){
-        findViewById(R.id.button_linkedin_signout).setOnClickListener(this);
         linkedin_login = findViewById(R.id.linkedin_login);
+        linkedin_login.setOnClickListener(this);
+        findViewById(R.id.button_linkedin_signout).setOnClickListener(this);
+
         mImageView = findViewById(R.id.logo);
         mTextViewProfile = findViewById(R.id.profile);
+
     }
 
     private void handleLogout(){
@@ -62,7 +61,7 @@ public class LinkedInActivity extends LoadingActivity implements View.OnClickLis
             public void onAuthSuccess() {
                 //Authentication was successful. Other calls with the SDK
                 linkedin_login.setVisibility(View.GONE);
-                findViewById(R.id.button_facebook_signout).setVisibility(View.VISIBLE);
+                findViewById(R.id.button_linkedin_signout).setVisibility(View.VISIBLE);
                 fetchPersonalInfo();
             }
 
@@ -121,7 +120,10 @@ public class LinkedInActivity extends LoadingActivity implements View.OnClickLis
     @Override
     public void onClick(View v) {
         switch (v.getId()) {
-            case R.id.button_facebook_signout:
+            case R.id.linkedin_login:
+                handleLogin();
+                break;
+            case R.id.button_linkedin_signout:
                 handleLogout();
                 break;
         }
