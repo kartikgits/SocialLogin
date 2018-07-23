@@ -57,7 +57,25 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
                 LayoutInflater inflater = (LayoutInflater) mContext.getSystemService(LAYOUT_INFLATER_SERVICE);
                 view = inflater.inflate(android.R.layout.simple_list_item_1, null);
             }
-            ((TextView) view.findViewById(android.R.id.text1)).setText(mClasses[position].getSimpleName());
+
+            else if (mClasses[position].getSimpleName().equals("GoogleActivity")){
+                ((TextView) view.findViewById(android.R.id.text1)).setText(R.string.google_login);
+            }
+
+            switch (mClasses[position].getSimpleName()){
+                case "FacebookActivity":
+                    ((TextView) view.findViewById(android.R.id.text1)).setText(R.string.facebook_login);
+                    break;
+                case "GoogleActivity":
+                    ((TextView) view.findViewById(android.R.id.text1)).setText(R.string.google_login);
+                    break;
+                case "LinkedInActivity":
+                    ((TextView) view.findViewById(android.R.id.text1)).setText(R.string.linkedin_login);
+                    break;
+                case "TwitterActivity":
+                    ((TextView) view.findViewById(android.R.id.text1)).setText(R.string.twitter_login);
+                    break;
+            }
 
             return view;
         }

@@ -36,7 +36,7 @@ public class GoogleActivity extends LoadingActivity implements GoogleApiClient.O
     private FirebaseAuth mAuth;
     private FirebaseAuth.AuthStateListener mAuthListener;
     private GoogleApiClient mGoogleApiClient;
-    private ImageView mImageView;
+    private com.mikhaellopez.circularimageview.CircularImageView mImageView;
     private TextView mTextViewProfile;
 
     @Override
@@ -199,7 +199,7 @@ public class GoogleActivity extends LoadingActivity implements GoogleApiClient.O
             if (user.getPhotoUrl() != null) {
                 Picasso.with(getApplicationContext()).load(user.getPhotoUrl().toString()).into(mImageView);
             }
-            mTextViewProfile.setText("DisplayName: " + user.getDisplayName());
+            mTextViewProfile.setText("Name: " + user.getDisplayName());
             mTextViewProfile.append("\n\n");
             mTextViewProfile.append("Email: " + user.getEmail());
             mTextViewProfile.append("\n\n");
@@ -208,7 +208,6 @@ public class GoogleActivity extends LoadingActivity implements GoogleApiClient.O
             findViewById(R.id.google_login_button).setVisibility(View.GONE);
             findViewById(R.id.sign_out_and_disconnect).setVisibility(View.VISIBLE);
         } else {
-            mImageView.getLayoutParams().width = (getResources().getDisplayMetrics().widthPixels / 100) * 64;
             mImageView.setImageResource(R.mipmap.ic_launcher);
             mTextViewProfile.setText(null);
             findViewById(R.id.google_login_button).setVisibility(View.VISIBLE);

@@ -15,4 +15,9 @@
 
     <string name="twitter_api_key">pivXMUeZ4AKVDiCAxciZkk4bT</string>
     <string name="twitter_api_secret">2GNmZk7C2mFs68rURVplMovh7WvrSboFKwTBviTOuHy1UW4QDH</string>
+
+    <string name="facebook_login">Login with Facebook</string>
+    <string name="google_login">Login with Google</string>
+    <string name="linkedin_login">Login with LinkedIn</string>
+    <string name="twitter_login">Login with Twitter</string>
 </resources>

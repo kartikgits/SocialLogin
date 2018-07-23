@@ -33,7 +33,7 @@ public class TwitterActivity extends LoadingActivity implements View.OnClickList
     private static final String TAG = "TwitterLoginActivity";
     private FirebaseAuth mAuth;
     private FirebaseAuth.AuthStateListener mAuthListener;
-    private ImageView mImageView;
+    private com.mikhaellopez.circularimageview.CircularImageView mImageView;
     private TextView mTextViewProfile;
     private TwitterLoginButton mLoginButton;
 
@@ -159,7 +159,7 @@ public class TwitterActivity extends LoadingActivity implements View.OnClickList
             if (user.getPhotoUrl() != null) {
                 Picasso.with(getApplicationContext()).load(user.getPhotoUrl().toString()).into(mImageView);
             }
-            mTextViewProfile.setText("DisplayName: " + user.getDisplayName());
+            mTextViewProfile.setText("Name: " + user.getDisplayName());
             mTextViewProfile.append("\n\n");
             mTextViewProfile.append("Email: " + user.getEmail());
             mTextViewProfile.append("\n\n");
@@ -168,7 +168,6 @@ public class TwitterActivity extends LoadingActivity implements View.OnClickList
             findViewById(R.id.button_twitter_login).setVisibility(View.GONE);
             findViewById(R.id.button_twitter_signout).setVisibility(View.VISIBLE);
         } else {
-            mImageView.getLayoutParams().width = (getResources().getDisplayMetrics().widthPixels / 100) * 64;
             mImageView.setImageResource(R.mipmap.ic_launcher);
             mTextViewProfile.setText(null);
 

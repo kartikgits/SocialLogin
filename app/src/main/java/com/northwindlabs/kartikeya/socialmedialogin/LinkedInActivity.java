@@ -25,7 +25,8 @@ import org.json.JSONObject;
 
 public class LinkedInActivity extends LoadingActivity implements View.OnClickListener{
 
-    private ImageView mImageView, linkedin_login;
+    private ImageView linkedin_login;
+    private com.mikhaellopez.circularimageview.CircularImageView mImageView;
     private TextView mTextViewProfile;
     private final String LOG_TAG = "LinkedInActivity";
 
@@ -100,7 +101,7 @@ public class LinkedInActivity extends LoadingActivity implements View.OnClickLis
                     Picasso.with(getApplicationContext()).load(pictureUrl).into(mImageView);
 
                     StringBuilder sb = new StringBuilder();
-                    sb.append("DisplayName: "+firstName+ " " +lastName);
+                    sb.append("Name: "+firstName+ " " +lastName);
                     sb.append("\n\n");
                     sb.append("Email: "+emailAddress);
                     mTextViewProfile.setText(sb);
