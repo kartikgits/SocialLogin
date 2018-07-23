@@ -12,4 +12,7 @@
 
     <string name="facebook_app_id">272465946638754</string>
     <string name="fb_login_protocol_scheme">fb272465946638754</string>
+
+    <string name="twitter_api_key">pivXMUeZ4AKVDiCAxciZkk4bT</string>
+    <string name="twitter_api_secret">2GNmZk7C2mFs68rURVplMovh7WvrSboFKwTBviTOuHy1UW4QDH</string>
 </resources>
